@@ -8,7 +8,7 @@ import org.summoners.cache.data.model.*;
 import org.summoners.cache.data.model.AnimationDefinition.*;
 import org.summoners.cache.data.model.SkeletonDefinition.*;
 import org.summoners.cache.data.model.SkinDefinition.*;
-import org.summoners.util.*;
+import org.summoners.math.*;
 
 public class GLModel {
 	

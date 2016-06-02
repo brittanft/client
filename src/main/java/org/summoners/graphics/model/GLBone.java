@@ -2,7 +2,7 @@ package org.summoners.graphics.model;
 
 import java.util.*;
 
-import org.summoners.util.*;
+import org.summoners.math.*;
 
 public class GLBone {
 	

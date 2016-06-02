@@ -1,6 +1,6 @@
 package org.summoners.graphics.model;
 
-import org.summoners.util.*;
+import org.summoners.math.*;
 
 public class GLCamera {
 	
